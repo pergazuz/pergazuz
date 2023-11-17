@@ -1,7 +1,7 @@
 ### Hi there, I'm [Tongfah](https://github.com/pergazuz)👋
 
 I am currently a third-year student at [KMUTT](https://www.kmutt.ac.th/) in Thailand, pursuing a degree in Health Data Science. My passion lies in combining diverse fields of knowledge to develop innovative solutions and advance my career as a Health Data Scientist specializing in Image Processing and Big Data. I am enthusiastic about utilizing my skills to delve into understanding human behavior and promoting human well-being through data analysis.
-
+https://www.figma.com/file/U38Czva6gVf5Uknd78cmub/UTAC_AutoPRs?type=design&node-id=0-1&mode=design&t=ODJrefLa3DoKV7RB-0
 
 ## Skills:
 
